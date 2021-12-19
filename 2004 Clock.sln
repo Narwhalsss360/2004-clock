@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31903.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2004 Clock", "2004 Clock.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wire-1.0", "E:\Program Files (x86)\Arduino\hardware\arduino\avr\libraries\Wire\Wire-1.0.vcxitems", "{8A50F6F4-12CB-4520-8591-44974DE484A5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ButtonDebounce-1.0.1", "E:\Users\sandr\Documents\Arduino\libraries\ButtonDebounce\ButtonDebounce-1.0.1.vcxitems", "{0A77EB27-1C8A-4B58-9968-CEA3ACCAAB3C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LiquidCrystal_I2C-1.1.2", "E:\Users\sandr\Documents\Arduino\libraries\LiquidCrystal_I2C\LiquidCrystal_I2C-1.1.2.vcxitems", "{776A8B83-8421-4B9E-8550-ADF7FAC95749}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RTClib-1.12.4", "E:\Users\sandr\Documents\Arduino\libraries\RTClib\RTClib-1.12.4.vcxitems", "{3D808B77-2BFE-468C-B46C-7DD7B9ED0C34}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		E:\Users\sandr\Documents\Arduino\libraries\ButtonDebounce\ButtonDebounce-1.0.1.vcxitems*{0a77eb27-1c8a-4b58-9968-cea3accaab3c}*SharedItemsImports = 9
+		E:\Users\sandr\Documents\Arduino\libraries\RTClib\RTClib-1.12.4.vcxitems*{3d808b77-2bfe-468c-b46c-7dd7b9ed0c34}*SharedItemsImports = 9
+		E:\Users\sandr\Documents\Arduino\libraries\LiquidCrystal_I2C\LiquidCrystal_I2C-1.1.2.vcxitems*{776a8b83-8421-4b9e-8550-adf7fac95749}*SharedItemsImports = 9
+		E:\Program Files (x86)\Arduino\hardware\arduino\avr\libraries\Wire\Wire-1.0.vcxitems*{8a50f6f4-12cb-4520-8591-44974de484a5}*SharedItemsImports = 9
+		E:\Program Files (x86)\Arduino\hardware\arduino\avr\libraries\Wire\Wire-1.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		E:\Users\sandr\Documents\Arduino\libraries\ButtonDebounce\ButtonDebounce-1.0.1.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		E:\Users\sandr\Documents\Arduino\libraries\LiquidCrystal_I2C\LiquidCrystal_I2C-1.1.2.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		E:\Users\sandr\Documents\Arduino\libraries\RTClib\RTClib-1.12.4.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {203B409A-EA9A-40D6-A02F-4E21187C722B}
+	EndGlobalSection
+EndGlobal
